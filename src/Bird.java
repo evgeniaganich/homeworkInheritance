@@ -10,6 +10,7 @@ public class Bird extends Animal {
 
     @Override
     public void eat() {
+        System.out.println("Птицы охотятся и кормят птенцов пережеванной пищей из клюва");
 
     }
 

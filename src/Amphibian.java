@@ -16,6 +16,7 @@ public class Amphibian extends Animal {
 
     @Override
     public void go() {
+        System.out.println("Земноводные животные прыгают, плавают, ползают");
 
     }
 
